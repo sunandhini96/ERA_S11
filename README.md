@@ -1,13 +1,13 @@
 # ERA_S11
-# Task : CIFAR 10 dataset classification using GRADCAM
+## Task : CIFAR 10 dataset classification using GRADCAM
 
-# Files : Main_repo : https://github.com/sunandhini96/MAIN_Repo/tree/main
+### Files : Main_repo : https://github.com/sunandhini96/MAIN_Repo/tree/main
 
-# Visualization after applying augmentation on cifar 10 dataset : 
+## Visualization after applying augmentation on cifar 10 dataset : 
 
 ![image](https://github.com/sunandhini96/ERA_S11/assets/63030539/3e0c672a-204d-410a-8142-648cff70b1c9)
 
-# Summary of the model: 
+## Summary of the model: 
 ```
 
 ================================================================
@@ -21,7 +21,7 @@ Params size (MB): 42.63
 Estimated Total Size (MB): 53.89
 ----------------------------------------------------------------
 ```
-# Training Logs:
+## Training Logs:
 
 EPOCH: 0
 Loss=1.323206901550293 LR=0.0088780490797546 Batch_id=97 Accuracy=44.62: 100%|██████████| 98/98 [00:41<00:00,  2.33it/s]
@@ -123,15 +123,15 @@ Loss=0.269216388463974 LR=-2.4716693877546714e-05 Batch_id=97 Accuracy=90.67: 10
 
 Test set: Average loss: 0.0007, Accuracy: 8813/10000 (88.13%)
 
-# Misclassified Images : 
+## Misclassified Images : 
 
 ![image](https://github.com/sunandhini96/ERA_S11/assets/63030539/45311320-29c9-405b-92dd-68c5658aff4f)
 
-# Gradcam (correctly classified):
+## Gradcam (correctly classified):
 
 ![image](https://github.com/sunandhini96/ERA_S11/assets/63030539/e3d638de-fad6-47a2-b30b-b00f2752795c)
 
-# Gradcam (misclassified ):
+## Gradcam (misclassified ):
 
 ![image](https://github.com/sunandhini96/ERA_S11/assets/63030539/64ef09e8-4274-4476-bbb3-27b6c8551817)
 
