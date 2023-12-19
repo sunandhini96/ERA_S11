@@ -1,4 +1,5 @@
 # ERA_S11
+# Task : CIFAR 10 dataset classification using GRADCAM
 
 # Files : Main_repo : https://github.com/sunandhini96/MAIN_Repo/tree/main
 
@@ -7,7 +8,7 @@
 ![image](https://github.com/sunandhini96/ERA_S11/assets/63030539/3e0c672a-204d-410a-8142-648cff70b1c9)
 
 # Summary of the model: 
-
+```
 
 ================================================================
 Total params: 11,173,962
@@ -19,7 +20,7 @@ Forward/backward pass size (MB): 11.25
 Params size (MB): 42.63
 Estimated Total Size (MB): 53.89
 ----------------------------------------------------------------
-
+```
 # Training Logs:
 
 EPOCH: 0
